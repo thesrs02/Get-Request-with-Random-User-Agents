@@ -1,4 +1,4 @@
-# Get-Request-with-Random-User-Agents
+# HTTP Request(GET) with random User Agents
 This is a simple function / module that takes a list of user agents and makes an HTTP call to the specified (hard coded) url and for each request, a random user agent header is added to the request
 
 ## How to use
