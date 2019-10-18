@@ -1,4 +1,4 @@
-// Module
+// Modules
 const {Headers} = require("node-fetch");
 const fetch = require("node-fetch");
 
